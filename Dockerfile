@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/channel/cmd/webhook@sha256:c4ed3ee633784272422312e4a5367641ca5592a5322e3d764e5307dbe33777ef
+MAINTAINER hatchin
